@@ -1,0 +1,1 @@
+```{r}    ggplot(cars, aes(speed, dist)) + geom_point()    ```
