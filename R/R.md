@@ -1,4 +1,0 @@
-R => terminal
-
-R.Version()
-
