@@ -6,3 +6,5 @@
 
 [Maths for Programmers Tutorial - Full Course on Sets and Logic](https://www.youtube.com/watch?v=2SpuBqvNjHI)
 
+[MTH 220 Discrete Math](https://math.libretexts.org/Courses/Monroe_Community_College/MTH_220_Discrete_Math)
+
